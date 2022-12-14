@@ -1,0 +1,1 @@
+from api_graphql import app
